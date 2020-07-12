@@ -101,8 +101,8 @@ GET /api/Campeonato
             "resultado": "1 x 4"
         }
     ],
-    "campeao": "Time 03",
-    "vice": "Time 01",
+    "campeao": "Time 01",
+    "vice": "Time 03",
     "terceiro": "Time 02"
 }
 ```
