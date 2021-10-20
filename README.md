@@ -107,7 +107,7 @@ GET /api/Campeonato
 }
 ```
 
-Requisitos:
+Diferenciais (não elimanatórios):
 
 - Use ASP.NET Core 3.1 WebAPI
 - Use EntityFramework Core
